@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaalwheoexbesgrmx4zd6mis43edy34rddn72ocdholluf4et7hvvlq
+fingerprint=0c:11:31:e9:1c:ad:54:7d:12:d9:ad:31:22:67:55:3e
+key_file=/home/datascience/oci-data-science/.oci/oci_api_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaaoqdygmiidrabhv3y4hkr3rb3z6dpmgotvq2scffra6jt7rubresa
+region=us-ashburn-1
