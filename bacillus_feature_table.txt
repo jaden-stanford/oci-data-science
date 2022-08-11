@@ -1,0 +1,1 @@
+{"code":"ObjectNotFound","message":"The object 'genbank/bacteria/Bacillus_thuringiensis/all_assembly_versions/GCA_000008505.1_ASM850v1_feature_table.txt.gz' was not found in the bucket 'ncbi_genomes'"}
